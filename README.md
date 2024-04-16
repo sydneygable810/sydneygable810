@@ -1,7 +1,5 @@
-******************************************************
-     
-      
-      Hello World! I'm Sydney Gable, and welcome to my GitHub. 
+*****************************************************      
+Hello World! I'm Sydney Gable, and welcome to my GitHub. 
 
 I am an experienced biotechnology professional experimenting with projects to practice and improve my coding skills.
 I mostly work with Python, but I love to challenge myself and learn new things. 
